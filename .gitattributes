@@ -1,1 +1,2 @@
 .swift linguist-detectable=true
+.objc linguist-detectable=false
